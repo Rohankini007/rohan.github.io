@@ -1,0 +1,112 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-color: transparent;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: silver;
+  }
+  
+  .title {
+    color: silver;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .sky {
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: silver;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: silver;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: silver;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
+
+
+  .bag {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: transparent;
+    color: silver;
+    font-size: larger;
+  }
+  
+.pen {
+    color: silver;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.dog {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: transparent;
+    hight=100%;
+}
+.heading {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: transparent;
+  color: silver;
+
+}
+.man {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: transparent;
+  color: silver;
+}
+.bgk{
+  background-image:url(pic.jpg);
+  background-repeat: no-repeat;
+ background-size: cover;
+}
+.apple {
+ 
+  color: pink;
+}
+.skin {
+  color:dodgerblue
+}
+.van {
+  color: blueviolet;
+}
+.bottle {
+  color: blue;
+}
